@@ -1,0 +1,16 @@
+"*":
+  "exception-reporting":
+    userId: "baa82c39-c9d8-d6fa-f2f3-118ea1db72ee"
+  welcome:
+    showOnStartup: false
+  core:
+    disabledPackages: [
+      "minimap"
+    ]
+    themes: [
+      "unity-ui"
+      "one-light-syntax"
+    ]
+  editor:
+    invisibles: {}
+  "vim-mode": {}
